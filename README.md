@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=big-leu&label=Profile%20views&color=0e75b6&style=flat" alt="big-leu" /> </p>
 
 
-- 🌱 I’m currently learning **Next JS, Fastapi , Typescipt and Go Lang**
+- 🌱 I’m currently learning **Next JS, Fastapi , Typescipt, Datadog and Terraform **
 
 - 👨‍💻 All of my projects are available at [https://portfolio-16012004.netlify.app/](https://portfolio-16012004.netlify.app/)
 
